@@ -37,7 +37,9 @@ A modern, full-stack application that leverages the power of Artificial Intellig
 
 ## 🚀 Visit The Site
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel)](https://ai-resume-analyzer-three-theta-47.vercel.app/)
 
+[**✨ Click here to try out the live AI Resume Analyzer! ✨**](https://ai-resume-analyzer-three-theta-47.vercel.app/)
 
 ## 📝 License
 This project is open-source and available for educational and personal use.

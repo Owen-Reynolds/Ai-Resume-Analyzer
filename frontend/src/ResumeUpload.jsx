@@ -24,7 +24,7 @@ export default function ResumeUpload() {
         formData.append("job_title", selectedJobTitle)
         try {
             setIsLoading(true)
-            const response = await axios.post("http://127.0.0.1:8000/api/upload/resume", formData);
+            const response = await axios.post("/api/upload/resume", formData);
             setAnalysisResult(response.data.response)
         } finally {
             setIsLoading(false)
